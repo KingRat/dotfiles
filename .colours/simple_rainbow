@@ -1,0 +1,28 @@
+!! simple_rainbow
+*background:  #575757
+*foreground:  #dcdccc
+
+!black
+*color0:      #4b4b4b
+*color8:      #616161
+!red
+*color1:      #ff8278
+*color9:      #ff5d51
+!green
+*color2:      #afe873
+*color10:     #a7f66d
+!yellow
+*color3:      #e0cb77
+*color11:     #ecea61
+!blue
+*color4:      #77bee0
+*color12:     #62c5f3
+!magenta
+*color5:      #dd91f3
+*color13:     #b96df9
+!cyan
+*color6:      #9afdfc
+*color14:     #86edec
+!white
+*color7:      #eaeaea
+*color15:     #dddddd

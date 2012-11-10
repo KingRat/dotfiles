@@ -1,0 +1,40 @@
+! p
+! stolen from e lololololol------------------------------------------------------------------------------
+! c o l o r - s e t t i n g s
+
+urxvt*foreground: #DDCCBB
+!urxvt*background: #0e1112
+
+!------------------------------------------------------------------------------
+! u r x v t
+
+URxvt*urgentOnBell:     true
+URxvt*geometry:         80x35
+URxvt*font:             xft:profont:size=12:antialias=true
+URxvt*boldFont:         xft:profont:size=12:antialias=true
+!URxvt*font:             xft:cure:size=12:antialias=true
+!URxvt*boldFont:         xft:cure:size=12:antialias=true
+URxvt*scrollBar:        false
+!URxvt*transparent: 	true
+!URxvt*shading:		12
+URxvt.depth: 		32
+URxvt.background:   [45]#000000
+URxvt.perl-ext-common:  default,matcher,clipboard,selection-autotransform,vtwheel
+! tabbed
+URxvt.urlLauncher:      /usr/bin/chromium
+URxvt.matcher.button:   1
+
+!------------------------------------------------------------------------------
+! X c u r s o r
+
+!Xcursor.theme: Vanilla-DMZ-AA
+!Xcursor.size:  22
+
+!------------------------------------------------------------------------------
+! X f t
+
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintslight             
